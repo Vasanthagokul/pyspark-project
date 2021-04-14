@@ -13,3 +13,4 @@
 **This entire project was done in Apache Spark using its python wrapper class 'pyspark'**
 
 **Plese use git lfs clone to clone the repo as the datasets might not be able to be accessed from a simple zip download**
+**Apache Spark 3.1.1 , python 3.8.3** 
